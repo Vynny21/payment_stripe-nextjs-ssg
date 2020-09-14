@@ -46,4 +46,5 @@ Code Challenge - E-commerce with Next.js SSG and Stripe
 4. Access `localhost:3000` in your browser.<br />
 5. Run `yarn build && yarn serve` for build and serve the static folder.<br />
 
+
 Made with 💜 by Vinicius Prudencio 👋 [See my linkedin](https://www.linkedin.com/in/vinicius-prudencio-64bb99128/)
