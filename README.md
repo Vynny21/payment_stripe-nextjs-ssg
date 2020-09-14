@@ -15,11 +15,7 @@ Code Challenge - E-commerce with Next.js SSG and Stripe
 
 <hr>
 
-## Participants
-
-| [<img src="https://avatars3.githubusercontent.com/u/10366880?s=460&v=4" width="75px;"/>](https://github.com/guilhermerodz) |
-| :------------------------------------------------------------------------------------------------------------------------: |
-
+## Instructor
 
 | [Guilherme Rodz](https://github.com/guilhermerodz)
 
@@ -50,6 +46,4 @@ Code Challenge - E-commerce with Next.js SSG and Stripe
 4. Access `localhost:3000` in your browser.<br />
 5. Run `yarn build && yarn serve` for build and serve the static folder.<br />
 
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
+Made with 💜 by Vinicius Prudencio 👋 [See my linkedin](https://www.linkedin.com/in/vinicius-prudencio-64bb99128/)
